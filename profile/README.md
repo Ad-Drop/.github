@@ -1,5 +1,7 @@
 <h1 align="center">epPlex | Hyperdrive Hackathon</h1>
 
+OBS: for the sake of achieving a working MVP, code quality has been neglected.
+
 ### [epPlex repo](https://github.com/epPlex/epPlex)
 epPlex Solana program, test scripts, no-code epNFT creation frontend.
 
