@@ -3,6 +3,8 @@
 ### [epPlex repo](https://github.com/epPlex/epPlex)
 epPlex Solana program, test scripts, no-code epNFT creation frontend.
 
+Program is live on devent (Program ID: `BcKkiAcNredLZdQySoHt7okfhDNA32r9mJayjy8cMDdY`)
+
 Note: it probably would have been smarter to separate out the epPlex Solana program into a different repo
 
 ---
