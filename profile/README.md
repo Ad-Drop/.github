@@ -1,11 +1,10 @@
-<h1 align="center">epPlex | Hyperdrive Hackathon</h1>
+<h1 align="center">epPlex</h1>
 
-OBS: for the sake of achieving a working MVP, code quality has been neglected.
+epPlex is a novel Solana NFT protocol that expands the NFT design-space with partial program-owned
+NFTs. The epPlex protocol can permissionlessly control your NFT under
+specific, open-sourced conditions.
 
-### [epPlex repo](https://github.com/epPlex/epPlex)
-Contains: epPlex Solana program, test scripts, no-code epNFT creation frontend.
-
-Program is live on devent (Program ID: `BcKkiAcNredLZdQySoHt7okfhDNA32r9mJayjy8cMDdY`)
+Currently, all development ressources are going towards developing [Burger Game](https://exp.blessedburgers.co/pdfs/litepaper.pdf)
 
 ---
 
