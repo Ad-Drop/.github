@@ -14,4 +14,4 @@ Burger Game is the first NFT-based elimination game-show powered by [Blessed Bur
 - [`epplex-burger`](https://github.com/epplex-xyz/epPlex/tree/main/programs/epplex-burger) Solana program to facilitate Burger Game
 - [`epplex-core`](https://github.com/epplex-xyz/epPlex/tree/main/programs/epplex-core) core logic for maintaining permissionless control of NFTs
 - [WNS](https://github.com/wen-community/wen-new-standard) integration for ephemeral epNFTs
-- [`SDK`](https://github.com/epplex-xyz/sdk) for interacting with the solana program
+- [`SDK`](https://github.com/epplex-xyz/sdk) for interacting with the solana programs (epplex-burger, epplex-core, wns)
