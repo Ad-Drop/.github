@@ -11,7 +11,7 @@ Burger Game is the first NFT-based elimination game-show powered by [Blessed Bur
 
 ## Code submission
 - [`burger-game`](https://github.com/epplex-xyz/burger-game) private repo for the progressive web app for the gameshow
-- [`epplex-burger`](https://github.com/epplex-xyz/epPlex/tree/main/programs/epplex-burger) Solana Program
-- [`epplex-core`](https://github.com/epplex-xyz/epPlex/tree/main/programs/epplex-core) Solana Program revamped epPlex core for NFT memberships
+- [`epplex-burger`](https://github.com/epplex-xyz/epPlex/tree/main/programs/epplex-burger) Solana program to facilitate Burger Game
+- [`epplex-core`](https://github.com/epplex-xyz/epPlex/tree/main/programs/epplex-core) core logic for maintaining permissionless control of NFTs
 - [WNS](https://github.com/wen-community/wen-new-standard) integration for ephemeral epNFTs
 - [`SDK`](https://github.com/epplex-xyz/sdk) for interacting with the solana program
